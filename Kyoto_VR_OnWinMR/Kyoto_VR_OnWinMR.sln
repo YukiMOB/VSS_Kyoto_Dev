@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyoto_VR_OnWinMR", "Kyoto_VR_OnWinMR.csproj", "{66C92901-9516-6696-AAE0-8839F7CDEC9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyoto_VR_OnWinMR.Editor", "Kyoto_VR_OnWinMR.Editor.csproj", "{BD3C5E2E-2B3A-1565-D9FA-ACF9FA72DE62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66C92901-9516-6696-AAE0-8839F7CDEC9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66C92901-9516-6696-AAE0-8839F7CDEC9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66C92901-9516-6696-AAE0-8839F7CDEC9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66C92901-9516-6696-AAE0-8839F7CDEC9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD3C5E2E-2B3A-1565-D9FA-ACF9FA72DE62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD3C5E2E-2B3A-1565-D9FA-ACF9FA72DE62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD3C5E2E-2B3A-1565-D9FA-ACF9FA72DE62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD3C5E2E-2B3A-1565-D9FA-ACF9FA72DE62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
