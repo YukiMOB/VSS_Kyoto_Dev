@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyoto_VR_OnWinMR", "Kyoto_VR_OnWinMR.csproj", "{66C92901-9516-6696-AAE0-8839F7CDEC9E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyoto_VR_OnWinMR.Plugins", "Kyoto_VR_OnWinMR.Plugins.csproj", "{F7434689-75F8-CB24-1472-FCD4F0D358CF}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyoto_VR_OnWinMR.Editor", "Kyoto_VR_OnWinMR.Editor.csproj", "{BD3C5E2E-2B3A-1565-D9FA-ACF9FA72DE62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyoto_VR_OnWinMR.Editor.Plugins", "Kyoto_VR_OnWinMR.Editor.Plugins.csproj", "{FF3941E0-0390-EE22-8704-1CB6C5A33A01}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,10 +19,18 @@ Global
 		{66C92901-9516-6696-AAE0-8839F7CDEC9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66C92901-9516-6696-AAE0-8839F7CDEC9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66C92901-9516-6696-AAE0-8839F7CDEC9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7434689-75F8-CB24-1472-FCD4F0D358CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7434689-75F8-CB24-1472-FCD4F0D358CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7434689-75F8-CB24-1472-FCD4F0D358CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7434689-75F8-CB24-1472-FCD4F0D358CF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BD3C5E2E-2B3A-1565-D9FA-ACF9FA72DE62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BD3C5E2E-2B3A-1565-D9FA-ACF9FA72DE62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD3C5E2E-2B3A-1565-D9FA-ACF9FA72DE62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD3C5E2E-2B3A-1565-D9FA-ACF9FA72DE62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF3941E0-0390-EE22-8704-1CB6C5A33A01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF3941E0-0390-EE22-8704-1CB6C5A33A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF3941E0-0390-EE22-8704-1CB6C5A33A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF3941E0-0390-EE22-8704-1CB6C5A33A01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
