@@ -28,7 +28,7 @@
     <IntermediateOutputPath>Temp\UnityVS_obj\Debug\</IntermediateOutputPath>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2017_4_1;UNITY_2017_4;UNITY_2017;UNITY_ANALYTICS;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_GRID;ENABLE_TILEMAP;ENABLE_TERRAIN;ENABLE_DIRECTOR;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_TIMELINE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;ENABLE_SPRITE_MASKING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;ENABLE_MONO_BDWGC;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_VIDEO;ENABLE_RMGUI;ENABLE_PACKMAN;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_STYLE_SHEETS;ENABLE_LOCALIZATION;PLATFORM_METRO;UNITY_METRO;UNITY_METRO_API;PLATFORM_WINRT;UNITY_WINRT;ENABLE_WINRT_PINVOKE;ENABLE_LAZY_METHOD_CACHING;ENABLE_MOVIES;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_NETWORK;ENABLE_EVENT_QUEUE;UNITY_PLATFORM_THREAD_TO_CORE_MAPPING;ENABLE_SUBSTANCE;PLATFORM_SUPPORTS_ADS_ID;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;CURL_STATICLIB;ENABLE_VR;ENABLE_AR;UNITY_WSA;ENABLE_DOTNET;ENABLE_PROFILER;UNITY_WSA_10_0;UNITY_WINRT_10_0;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE;ENABLE_VSTU;MOBILE_INPUT</DefineConstants>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2017_4_1;UNITY_2017_4;UNITY_2017;UNITY_ANALYTICS;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_GRID;ENABLE_TILEMAP;ENABLE_TERRAIN;ENABLE_DIRECTOR;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_TIMELINE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;ENABLE_SPRITE_MASKING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;ENABLE_MONO_BDWGC;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_VIDEO;ENABLE_RMGUI;ENABLE_PACKMAN;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_STYLE_SHEETS;ENABLE_LOCALIZATION;PLATFORM_METRO;UNITY_METRO;UNITY_METRO_API;PLATFORM_WINRT;UNITY_WINRT;ENABLE_WINRT_PINVOKE;ENABLE_LAZY_METHOD_CACHING;ENABLE_MOVIES;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_NETWORK;ENABLE_EVENT_QUEUE;UNITY_PLATFORM_THREAD_TO_CORE_MAPPING;ENABLE_SUBSTANCE;PLATFORM_SUPPORTS_ADS_ID;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;CURL_STATICLIB;ENABLE_VR;ENABLE_AR;UNITY_WSA;ENABLE_DOTNET;ENABLE_PROFILER;UNITY_WSA_10_0;UNITY_WINRT_10_0;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE;ENABLE_VSTU;MOBILE_INPUT;VRTK_DEFINE_SDK_WINDOWSMR;VRTK_DEFINE_WINDOWSMR_CONTROLLER_VISUALIZATION;VRTK_VERSION_3_1_0_OR_NEWER;VRTK_VERSION_3_2_0_OR_NEWER;VRTK_VERSION_3_2_1_OR_NEWER;VRTK_VERSION_3_3_0;VRTK_VERSION_3_3_0_OR_NEWER</DefineConstants>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -38,7 +38,7 @@
     <IntermediateOutputPath>Temp\UnityVS_obj\Release\</IntermediateOutputPath>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <DefineConstants>TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2017_4_1;UNITY_2017_4;UNITY_2017;UNITY_ANALYTICS;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_GRID;ENABLE_TILEMAP;ENABLE_TERRAIN;ENABLE_DIRECTOR;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_TIMELINE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;ENABLE_SPRITE_MASKING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;ENABLE_MONO_BDWGC;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_VIDEO;ENABLE_RMGUI;ENABLE_PACKMAN;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_STYLE_SHEETS;ENABLE_LOCALIZATION;PLATFORM_METRO;UNITY_METRO;UNITY_METRO_API;PLATFORM_WINRT;UNITY_WINRT;ENABLE_WINRT_PINVOKE;ENABLE_LAZY_METHOD_CACHING;ENABLE_MOVIES;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_NETWORK;ENABLE_EVENT_QUEUE;UNITY_PLATFORM_THREAD_TO_CORE_MAPPING;ENABLE_SUBSTANCE;PLATFORM_SUPPORTS_ADS_ID;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;CURL_STATICLIB;ENABLE_VR;ENABLE_AR;UNITY_WSA;ENABLE_DOTNET;ENABLE_PROFILER;UNITY_WSA_10_0;UNITY_WINRT_10_0;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE;ENABLE_VSTU;MOBILE_INPUT</DefineConstants>
+    <DefineConstants>TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2017_4_1;UNITY_2017_4;UNITY_2017;UNITY_ANALYTICS;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_GRID;ENABLE_TILEMAP;ENABLE_TERRAIN;ENABLE_DIRECTOR;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_TIMELINE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;ENABLE_SPRITE_MASKING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;ENABLE_MONO_BDWGC;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_VIDEO;ENABLE_RMGUI;ENABLE_PACKMAN;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_STYLE_SHEETS;ENABLE_LOCALIZATION;PLATFORM_METRO;UNITY_METRO;UNITY_METRO_API;PLATFORM_WINRT;UNITY_WINRT;ENABLE_WINRT_PINVOKE;ENABLE_LAZY_METHOD_CACHING;ENABLE_MOVIES;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_NETWORK;ENABLE_EVENT_QUEUE;UNITY_PLATFORM_THREAD_TO_CORE_MAPPING;ENABLE_SUBSTANCE;PLATFORM_SUPPORTS_ADS_ID;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;CURL_STATICLIB;ENABLE_VR;ENABLE_AR;UNITY_WSA;ENABLE_DOTNET;ENABLE_PROFILER;UNITY_WSA_10_0;UNITY_WINRT_10_0;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE;ENABLE_VSTU;MOBILE_INPUT;VRTK_DEFINE_SDK_WINDOWSMR;VRTK_DEFINE_WINDOWSMR_CONTROLLER_VISUALIZATION;VRTK_VERSION_3_1_0_OR_NEWER;VRTK_VERSION_3_2_0_OR_NEWER;VRTK_VERSION_3_2_1_OR_NEWER;VRTK_VERSION_3_3_0;VRTK_VERSION_3_3_0_OR_NEWER</DefineConstants>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
   </PropertyGroup>
   <ItemGroup>
@@ -188,6 +188,12 @@
     <Reference Include="MetroSupport/Tools/UnityEngine.WindModule">
       <HintPath>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport/Tools/UnityEngine.WindModule.dll</HintPath>
     </Reference>
+    <Reference Include="Vuforia.UnityExtensions.Editor">
+      <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/VuforiaSupport/Managed/Editor/Vuforia.UnityExtensions.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Vuforia.UnityExtensions">
+      <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/VuforiaSupport/Managed/Runtime/Vuforia.UnityExtensions.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
     </Reference>
@@ -248,6 +254,9 @@
     <Reference Include="UnityEditor.Graphs">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEditor.Android.Extensions">
+      <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.WSA.Extensions">
       <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.WSA.Extensions.dll</HintPath>
     </Reference>
@@ -256,12 +265,6 @@
     </Reference>
     <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
-    </Reference>
-    <Reference Include="GLTFSerialization">
-      <HintPath>Assets/HoloToolkit/Utilities/Scripts/GLTF/Plugins/GLTFSerialization/GLTFSerialization.dll</HintPath>
-    </Reference>
-    <Reference Include="Newtonsoft.Json">
-      <HintPath>Assets/HoloToolkit/Utilities/Scripts/GLTF/Plugins/JsonNet/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Advertisements">
       <HintPath>C:/ProgramData/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/UnityEngine.Advertisements.dll</HintPath>
@@ -284,6 +287,12 @@
     <Reference Include="UnityEngine.StandardEvents">
       <HintPath>C:/ProgramData/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.10/UnityEngine.StandardEvents.dll</HintPath>
     </Reference>
+    <Reference Include="GLTFSerialization">
+      <HintPath>Assets/Assets/HoloToolkit/Utilities/Scripts/GLTF/Plugins/GLTFSerialization/GLTFSerialization.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>Assets/Assets/HoloToolkit/Utilities/Scripts/GLTF/Plugins/JsonNet/Newtonsoft.Json.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Kyoto_VR_OnWinMR.Plugins.csproj">
@@ -300,86 +309,169 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\HoloToolkit\BuildAndDeploy\Editor\BuildDeployPortal.cs" />
-    <Compile Include="Assets\HoloToolkit\BuildAndDeploy\Editor\BuildDeployPrefs.cs" />
-    <Compile Include="Assets\HoloToolkit\BuildAndDeploy\Editor\BuildDeployTools.cs" />
-    <Compile Include="Assets\HoloToolkit\BuildAndDeploy\Editor\BuildDeployWindow.cs" />
-    <Compile Include="Assets\HoloToolkit\BuildAndDeploy\Editor\BuildInfo.cs" />
-    <Compile Include="Assets\HoloToolkit\BuildAndDeploy\Editor\BuildSLNUtilities.cs" />
-    <Compile Include="Assets\HoloToolkit\BuildAndDeploy\Editor\CertificatePasswordWindow.cs" />
-    <Compile Include="Assets\HoloToolkit\BuildAndDeploy\Editor\DataStructures\AdapterInfo.cs" />
-    <Compile Include="Assets\HoloToolkit\BuildAndDeploy\Editor\DataStructures\AppDetails.cs" />
-    <Compile Include="Assets\HoloToolkit\BuildAndDeploy\Editor\DataStructures\AppList.cs" />
-    <Compile Include="Assets\HoloToolkit\BuildAndDeploy\Editor\DataStructures\ConnectInfo.cs" />
-    <Compile Include="Assets\HoloToolkit\BuildAndDeploy\Editor\DataStructures\CopyDirectoryInfo.cs" />
-    <Compile Include="Assets\HoloToolkit\BuildAndDeploy\Editor\DataStructures\DevicePortalConnections.cs" />
-    <Compile Include="Assets\HoloToolkit\BuildAndDeploy\Editor\DataStructures\DHCPInfo.cs" />
-    <Compile Include="Assets\HoloToolkit\BuildAndDeploy\Editor\DataStructures\InstallStatus.cs" />
-    <Compile Include="Assets\HoloToolkit\BuildAndDeploy\Editor\DataStructures\IpAddressInfo.cs" />
-    <Compile Include="Assets\HoloToolkit\BuildAndDeploy\Editor\DataStructures\MachineName.cs" />
-    <Compile Include="Assets\HoloToolkit\BuildAndDeploy\Editor\DataStructures\NetworkInfo.cs" />
-    <Compile Include="Assets\HoloToolkit\BuildAndDeploy\Editor\DataStructures\ProcessDesc.cs" />
-    <Compile Include="Assets\HoloToolkit\BuildAndDeploy\Editor\DataStructures\ProcessList.cs" />
-    <Compile Include="Assets\HoloToolkit\BuildAndDeploy\Editor\DataStructures\Response.cs" />
-    <Compile Include="Assets\HoloToolkit\BuildAndDeploy\Editor\HoloToolkitCommands.cs" />
-    <Compile Include="Assets\HoloToolkit\BuildAndDeploy\Editor\USB\USBDeviceInfo.cs" />
-    <Compile Include="Assets\HoloToolkit\BuildAndDeploy\Editor\USB\USBDeviceListener.cs" />
-    <Compile Include="Assets\HoloToolkit\BuildAndDeploy\Editor\UwpProjectPostProcess.cs" />
-    <Compile Include="Assets\HoloToolkit\Common\Scripts\Editor\EditorPrefsUtility.cs" />
-    <Compile Include="Assets\HoloToolkit\Common\Scripts\Editor\ExternalProcess.cs" />
-    <Compile Include="Assets\HoloToolkit\Common\Scripts\Editor\Obsolete\CustomMaterialEditor.cs" />
-    <Compile Include="Assets\HoloToolkit\Common\Scripts\Editor\Obsolete\FastConfigurable2SidedGUI.cs" />
-    <Compile Include="Assets\HoloToolkit\Common\Scripts\Editor\Obsolete\FastConfigurableGUI.cs" />
-    <Compile Include="Assets\HoloToolkit\Common\Scripts\Editor\Obsolete\ShaderGUIUtils.cs" />
-    <Compile Include="Assets\HoloToolkit\Common\Scripts\Editor\StandardShaderGUI.cs" />
-    <Compile Include="Assets\HoloToolkit\Input\Scripts\Editor\AttachToControllerEditor.cs" />
-    <Compile Include="Assets\HoloToolkit\Input\Scripts\Editor\ControllerFinderEditor.cs" />
-    <Compile Include="Assets\HoloToolkit\Input\Scripts\Editor\EditorHandsMaterialInspector.cs" />
-    <Compile Include="Assets\HoloToolkit\Input\Scripts\Editor\KeywordAndKeyCodeDrawer.cs" />
-    <Compile Include="Assets\HoloToolkit\Input\Scripts\Editor\MixedRealityCameraManagerEditor.cs" />
-    <Compile Include="Assets\HoloToolkit\Input\Scripts\Editor\MixedRealityTeleportEditor.cs" />
-    <Compile Include="Assets\HoloToolkit\Input\Scripts\Editor\SpeechInputHandlerEditor.cs" />
-    <Compile Include="Assets\HoloToolkit\Input\Scripts\Editor\SpeechInputSourceEditor.cs" />
-    <Compile Include="Assets\HoloToolkit\Input\Scripts\Editor\XboxControllerInputSourceEditor.cs" />
-    <Compile Include="Assets\HoloToolkit\Sharing\Scripts\Editor\SharingMenu.cs" />
-    <Compile Include="Assets\HoloToolkit\Sharing\Scripts\Editor\SharingStageEditor.cs" />
-    <Compile Include="Assets\HoloToolkit\SpatialMapping\Scripts\RemoteMapping\Editor\RoomMeshExporter.cs" />
-    <Compile Include="Assets\HoloToolkit\SpatialMapping\Scripts\SpatialProcessing\Editor\SurfaceMeshesToPlanesEditor.cs" />
-    <Compile Include="Assets\HoloToolkit\SpatialSound\Scripts\UAudioManager\Editor\AudioEventBankEditor.cs" />
-    <Compile Include="Assets\HoloToolkit\SpatialSound\Scripts\UAudioManager\Editor\AudioEventPropertyDrawer.cs" />
-    <Compile Include="Assets\HoloToolkit\SpatialSound\Scripts\UAudioManager\Editor\UAudioManagerBaseEditor.cs" />
-    <Compile Include="Assets\HoloToolkit\SpatialSound\Scripts\UAudioManager\Editor\UAudioManagerEditor.cs" />
-    <Compile Include="Assets\HoloToolkit\SpatialSound\Scripts\UAudioManager\Editor\UAudioProfiler.cs" />
-    <Compile Include="Assets\HoloToolkit\Utilities\Scripts\AtlasReferenceUpdater\Editor\AtlasReferenceUpdater.cs" />
-    <Compile Include="Assets\HoloToolkit\Utilities\Scripts\AtlasReferenceUpdater\Editor\Extensions\SerializedPropertyExtensions.cs" />
-    <Compile Include="Assets\HoloToolkit\Utilities\Scripts\AtlasReferenceUpdater\Editor\Extensions\SpriteAtlasExtensions.cs" />
-    <Compile Include="Assets\HoloToolkit\Utilities\Scripts\Editor\AutoConfigureMenu.cs" />
-    <Compile Include="Assets\HoloToolkit\Utilities\Scripts\Editor\AutoConfigureWindow.cs" />
-    <Compile Include="Assets\HoloToolkit\Utilities\Scripts\Editor\CanvasEditorExtension.cs" />
-    <Compile Include="Assets\HoloToolkit\Utilities\Scripts\Editor\CapabilitySettingsWindow.cs" />
-    <Compile Include="Assets\HoloToolkit\Utilities\Scripts\Editor\CustomHeaderDrawer.cs" />
-    <Compile Include="Assets\HoloToolkit\Utilities\Scripts\Editor\EditorGUIExtensions.cs" />
-    <Compile Include="Assets\HoloToolkit\Utilities\Scripts\Editor\EditorGUILayoutExtensions.cs" />
-    <Compile Include="Assets\HoloToolkit\Utilities\Scripts\Editor\EnforceEditorSettings.cs" />
-    <Compile Include="Assets\HoloToolkit\Utilities\Scripts\Editor\EnumFlagsPropertyDrawer.cs" />
-    <Compile Include="Assets\HoloToolkit\Utilities\Scripts\Editor\HeadsetAdjustmentEditor.cs" />
-    <Compile Include="Assets\HoloToolkit\Utilities\Scripts\Editor\Int3Drawer.cs" />
-    <Compile Include="Assets\HoloToolkit\Utilities\Scripts\Editor\LayerMaskExtensions.cs" />
-    <Compile Include="Assets\HoloToolkit\Utilities\Scripts\Editor\OpenLocalFileEditor.cs" />
-    <Compile Include="Assets\HoloToolkit\Utilities\Scripts\Editor\OpenLocalFolderEditor.cs" />
-    <Compile Include="Assets\HoloToolkit\Utilities\Scripts\Editor\ProjectSettingsWindow.cs" />
-    <Compile Include="Assets\HoloToolkit\Utilities\Scripts\Editor\SaveLocalFileEditor.cs" />
-    <Compile Include="Assets\HoloToolkit\Utilities\Scripts\Editor\SceneLauncherEditor.cs" />
-    <Compile Include="Assets\HoloToolkit\Utilities\Scripts\Editor\SceneSettingsWindow.cs" />
-    <Compile Include="Assets\HoloToolkit\Utilities\Scripts\Editor\SetIconsWindow.cs" />
-    <Compile Include="Assets\HoloToolkit\Utilities\Scripts\Editor\SolverHandlerEditor.cs" />
-    <Compile Include="Assets\HoloToolkit\Utilities\Scripts\Editor\TextureScale.cs" />
-    <Compile Include="Assets\HoloToolkit\UX\Scripts\Collections\Editor\CollectionEditor.cs" />
-    <Compile Include="Assets\HoloToolkit\UX\Scripts\Editor\CompoundButtonSaveInterceptor.cs" />
-    <Compile Include="Assets\HoloToolkit\UX\Scripts\Editor\KeyboardInputFieldEditor.cs" />
-    <Compile Include="Assets\HoloToolkit-Examples\Medical\Editor\VolumeInformationEditor.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\BuildAndDeploy\Editor\BuildDeployPortal.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\BuildAndDeploy\Editor\BuildDeployPrefs.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\BuildAndDeploy\Editor\BuildDeployTools.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\BuildAndDeploy\Editor\BuildDeployWindow.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\BuildAndDeploy\Editor\BuildInfo.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\BuildAndDeploy\Editor\BuildSLNUtilities.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\BuildAndDeploy\Editor\CertificatePasswordWindow.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\BuildAndDeploy\Editor\DataStructures\AdapterInfo.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\BuildAndDeploy\Editor\DataStructures\AppDetails.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\BuildAndDeploy\Editor\DataStructures\AppList.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\BuildAndDeploy\Editor\DataStructures\ConnectInfo.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\BuildAndDeploy\Editor\DataStructures\CopyDirectoryInfo.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\BuildAndDeploy\Editor\DataStructures\DevicePortalConnections.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\BuildAndDeploy\Editor\DataStructures\DHCPInfo.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\BuildAndDeploy\Editor\DataStructures\InstallStatus.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\BuildAndDeploy\Editor\DataStructures\IpAddressInfo.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\BuildAndDeploy\Editor\DataStructures\MachineName.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\BuildAndDeploy\Editor\DataStructures\NetworkInfo.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\BuildAndDeploy\Editor\DataStructures\ProcessDesc.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\BuildAndDeploy\Editor\DataStructures\ProcessList.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\BuildAndDeploy\Editor\DataStructures\Response.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\BuildAndDeploy\Editor\HoloToolkitCommands.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\BuildAndDeploy\Editor\USB\USBDeviceInfo.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\BuildAndDeploy\Editor\USB\USBDeviceListener.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\BuildAndDeploy\Editor\UwpProjectPostProcess.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Common\Scripts\Editor\EditorPrefsUtility.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Common\Scripts\Editor\ExternalProcess.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Common\Scripts\Editor\Obsolete\CustomMaterialEditor.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Common\Scripts\Editor\Obsolete\FastConfigurable2SidedGUI.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Common\Scripts\Editor\Obsolete\FastConfigurableGUI.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Common\Scripts\Editor\Obsolete\ShaderGUIUtils.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Common\Scripts\Editor\StandardShaderGUI.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Input\Scripts\Editor\AttachToControllerEditor.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Input\Scripts\Editor\ControllerFinderEditor.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Input\Scripts\Editor\EditorHandsMaterialInspector.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Input\Scripts\Editor\KeywordAndKeyCodeDrawer.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Input\Scripts\Editor\MixedRealityCameraManagerEditor.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Input\Scripts\Editor\MixedRealityTeleportEditor.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Input\Scripts\Editor\SpeechInputHandlerEditor.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Input\Scripts\Editor\SpeechInputSourceEditor.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Input\Scripts\Editor\XboxControllerInputSourceEditor.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Sharing\Scripts\Editor\SharingMenu.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Sharing\Scripts\Editor\SharingStageEditor.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\SpatialMapping\Scripts\RemoteMapping\Editor\RoomMeshExporter.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\SpatialMapping\Scripts\SpatialProcessing\Editor\SurfaceMeshesToPlanesEditor.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\SpatialSound\Scripts\UAudioManager\Editor\AudioEventBankEditor.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\SpatialSound\Scripts\UAudioManager\Editor\AudioEventPropertyDrawer.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\SpatialSound\Scripts\UAudioManager\Editor\UAudioManagerBaseEditor.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\SpatialSound\Scripts\UAudioManager\Editor\UAudioManagerEditor.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\SpatialSound\Scripts\UAudioManager\Editor\UAudioProfiler.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Utilities\Scripts\AtlasReferenceUpdater\Editor\AtlasReferenceUpdater.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Utilities\Scripts\AtlasReferenceUpdater\Editor\Extensions\SerializedPropertyExtensions.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Utilities\Scripts\AtlasReferenceUpdater\Editor\Extensions\SpriteAtlasExtensions.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Utilities\Scripts\Editor\AutoConfigureMenu.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Utilities\Scripts\Editor\AutoConfigureWindow.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Utilities\Scripts\Editor\CanvasEditorExtension.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Utilities\Scripts\Editor\CapabilitySettingsWindow.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Utilities\Scripts\Editor\CustomHeaderDrawer.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Utilities\Scripts\Editor\EditorGUIExtensions.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Utilities\Scripts\Editor\EditorGUILayoutExtensions.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Utilities\Scripts\Editor\EnforceEditorSettings.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Utilities\Scripts\Editor\EnumFlagsPropertyDrawer.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Utilities\Scripts\Editor\HeadsetAdjustmentEditor.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Utilities\Scripts\Editor\Int3Drawer.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Utilities\Scripts\Editor\LayerMaskExtensions.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Utilities\Scripts\Editor\OpenLocalFileEditor.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Utilities\Scripts\Editor\OpenLocalFolderEditor.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Utilities\Scripts\Editor\ProjectSettingsWindow.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Utilities\Scripts\Editor\SaveLocalFileEditor.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Utilities\Scripts\Editor\SceneLauncherEditor.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Utilities\Scripts\Editor\SceneSettingsWindow.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Utilities\Scripts\Editor\SetIconsWindow.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Utilities\Scripts\Editor\SolverHandlerEditor.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\Utilities\Scripts\Editor\TextureScale.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\UX\Scripts\Collections\Editor\CollectionEditor.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\UX\Scripts\Editor\CompoundButtonSaveInterceptor.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit\UX\Scripts\Editor\KeyboardInputFieldEditor.cs" />
+    <Compile Include="Assets\Assets\HoloToolkit-Examples\Medical\Editor\VolumeInformationEditor.cs" />
+    <Compile Include="Assets\Assets\VRTK\Source\Editor\Attributes\MinMaxRangeDrawer.cs" />
+    <Compile Include="Assets\Assets\VRTK\Source\Editor\Attributes\ObsoleteInspectorDrawer.cs" />
+    <Compile Include="Assets\Assets\VRTK\Source\Editor\Attributes\SerializedPropertyExtensions.cs" />
+    <Compile Include="Assets\Assets\VRTK\Source\Editor\DataTypes\Limits2DDrawer.cs" />
+    <Compile Include="Assets\Assets\VRTK\Source\Editor\DataTypes\Vector3StateDrawer.cs" />
+    <Compile Include="Assets\Assets\VRTK\Source\Editor\VRTK_AdaptiveQualityEditor.cs" />
+    <Compile Include="Assets\Assets\VRTK\Source\Editor\VRTK_EditorUtilities.cs" />
+    <Compile Include="Assets\Assets\VRTK\Source\Editor\VRTK_InteractHapticsEditor.cs" />
+    <Compile Include="Assets\Assets\VRTK\Source\Editor\VRTK_NavMeshDataEditor.cs" />
+    <Compile Include="Assets\Assets\VRTK\Source\Editor\VRTK_ObjectSetup.cs" />
+    <Compile Include="Assets\Assets\VRTK\Source\Editor\VRTK_PolicyListEditor.cs" />
+    <Compile Include="Assets\Assets\VRTK\Source\Editor\VRTK_RadialMenuEditor.cs" />
+    <Compile Include="Assets\Assets\VRTK\Source\Editor\VRTK_SDKManagerEditor.cs" />
+    <Compile Include="Assets\Assets\VRTK\Source\Editor\VRTK_SDKSetupEditor.cs" />
+    <Compile Include="Assets\Assets\VRTK\Source\Editor\VRTK_SupportInfoWindow.cs" />
+    <Compile Include="Assets\Assets\VRTK\Source\Editor\VRTK_UpdatePrompt.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Assets\HoloToolkit-Examples\Medical\Shaders\PlaneCut.cginc" />
+    <None Include="Assets\Assets\HoloToolkit-Examples\Medical\Shaders\VolumeRenderShared.cginc" />
+    <None Include="Assets\Assets\HoloToolkit-Examples\Medical\Shaders\VolumeRenderSlice.shader" />
+    <None Include="Assets\Assets\HoloToolkit-Examples\Medical\Shaders\VolumeRenderThickSlice.shader" />
+    <None Include="Assets\Assets\HoloToolkit-Examples\Medical\Shaders\math.cginc" />
+    <None Include="Assets\Assets\HoloToolkit-Examples\Prototyping\Shaders\UnlitTransparentTriplanar.shader" />
+    <None Include="Assets\Assets\HoloToolkit-Examples\Prototyping\Shaders\UnlitTriplanar.shader" />
+    <None Include="Assets\Assets\HoloToolkit-Examples\UX\Materials\AcrylicReflective.shader" />
+    <None Include="Assets\Assets\HoloToolkit-Examples\UX\Materials\AcrylicReflectiveTransparent.shader" />
+    <None Include="Assets\Assets\HoloToolkit\Common\Shaders\Obsolete\BlinnPhongConfigurable.cginc" />
+    <None Include="Assets\Assets\HoloToolkit\Common\Shaders\Obsolete\BlinnPhongConfigurable.shader" />
+    <None Include="Assets\Assets\HoloToolkit\Common\Shaders\Obsolete\BlinnPhongConfigurableTransparent.shader" />
+    <None Include="Assets\Assets\HoloToolkit\Common\Shaders\Obsolete\FastConfigurable\FastConfigurable.cginc" />
+    <None Include="Assets\Assets\HoloToolkit\Common\Shaders\Obsolete\FastConfigurable\FastConfigurable.shader" />
+    <None Include="Assets\Assets\HoloToolkit\Common\Shaders\Obsolete\FastConfigurable\FastConfigurable2Sided.shader" />
+    <None Include="Assets\Assets\HoloToolkit\Common\Shaders\Obsolete\FastConfigurable\HoloToolkitCommon.cginc" />
+    <None Include="Assets\Assets\HoloToolkit\Common\Shaders\Obsolete\FastConfigurable\macro.cginc" />
+    <None Include="Assets\Assets\HoloToolkit\Common\Shaders\Obsolete\HoloToolkitCommon.cginc" />
+    <None Include="Assets\Assets\HoloToolkit\Common\Shaders\Obsolete\LambertianConfigurable.cginc" />
+    <None Include="Assets\Assets\HoloToolkit\Common\Shaders\Obsolete\LambertianConfigurable.shader" />
+    <None Include="Assets\Assets\HoloToolkit\Common\Shaders\Obsolete\LambertianConfigurableTransparent.shader" />
+    <None Include="Assets\Assets\HoloToolkit\Common\Shaders\Obsolete\StandardFast.shader" />
+    <None Include="Assets\Assets\HoloToolkit\Common\Shaders\Obsolete\UnlitConfigurable.cginc" />
+    <None Include="Assets\Assets\HoloToolkit\Common\Shaders\Obsolete\UnlitConfigurable.shader" />
+    <None Include="Assets\Assets\HoloToolkit\Common\Shaders\Obsolete\UnlitConfigurableTransparent.shader" />
+    <None Include="Assets\Assets\HoloToolkit\Common\Shaders\Obsolete\UnlitNoDepthTest.shader" />
+    <None Include="Assets\Assets\HoloToolkit\Common\Shaders\Obsolete\VertexLitConfigurable.cginc" />
+    <None Include="Assets\Assets\HoloToolkit\Common\Shaders\Obsolete\VertexLitConfigurable.shader" />
+    <None Include="Assets\Assets\HoloToolkit\Common\Shaders\Obsolete\VertexLitConfigurableTransparent.shader" />
+    <None Include="Assets\Assets\HoloToolkit\Common\Shaders\Obsolete\macro.cginc" />
+    <None Include="Assets\Assets\HoloToolkit\Common\Shaders\Standard.shader" />
+    <None Include="Assets\Assets\HoloToolkit\Common\Shaders\WindowOcclusion.shader" />
+    <None Include="Assets\Assets\HoloToolkit\Input\Shaders\Cursor.shader" />
+    <None Include="Assets\Assets\HoloToolkit\Input\Shaders\CursorShader.shader" />
+    <None Include="Assets\Assets\HoloToolkit\Input\Shaders\EditorHands.shader" />
+    <None Include="Assets\Assets\HoloToolkit\License.txt" />
+    <None Include="Assets\Assets\HoloToolkit\MRTKVersion.txt" />
+    <None Include="Assets\Assets\HoloToolkit\SpatialMapping\Shaders\Occlusion.shader" />
+    <None Include="Assets\Assets\HoloToolkit\SpatialMapping\Shaders\SpatialMappingTap.shader" />
+    <None Include="Assets\Assets\HoloToolkit\SpatialMapping\Shaders\Wireframe.shader" />
+    <None Include="Assets\Assets\HoloToolkit\SpatialUnderstanding\Materials\SpatialMappingSurface.shader" />
+    <None Include="Assets\Assets\HoloToolkit\SpatialUnderstanding\Materials\SpatialUnderstandingSurface.shader" />
+    <None Include="Assets\Assets\HoloToolkit\UX\Fonts\LICENSE.txt" />
+    <None Include="Assets\Assets\HoloToolkit\UX\Shaders\3DTextShader.shader" />
+    <None Include="Assets\Assets\HoloToolkit\UX\Shaders\Alpha-Diffuse.shader" />
+    <None Include="Assets\Assets\HoloToolkit\UX\Shaders\DebugNormals.shader" />
+    <None Include="Assets\Assets\HoloToolkit\UX\Shaders\HUXButtonHighlightShader.shader" />
+    <None Include="Assets\Assets\HoloToolkit\UX\Shaders\HUXButtonShader.shader" />
+    <None Include="Assets\Assets\HoloToolkit\UX\Shaders\InvisibleShader.shader" />
+    <None Include="Assets\Assets\HoloToolkit\UX\Shaders\LuminousUnity.shader" />
+    <None Include="Assets\Assets\HoloToolkit\UX\Shaders\MovieMask.shader" />
+    <None Include="Assets\Assets\HoloToolkit\UX\Shaders\Normal-Diffuse.shader" />
+    <None Include="Assets\Assets\HoloToolkit\UX\Shaders\Occlusion.shader" />
+    <None Include="Assets\Assets\HoloToolkit\UX\Shaders\StereoImage.shader" />
+    <None Include="Assets\Assets\HoloToolkit\UX\Shaders\unlit_vert_color.shader" />
+    <None Include="Assets\Assets\HoloToolkit\Utilities\Scripts\GLTF\Shaders\GLTFConstant.cginc" />
+    <None Include="Assets\Assets\HoloToolkit\Utilities\Scripts\GLTF\Shaders\GLTFConstant.shader" />
+    <None Include="Assets\Assets\HoloToolkit\Utilities\Scripts\GLTF\Shaders\GLTFMobileCommon.cginc" />
+    <None Include="Assets\Assets\HoloToolkit\Utilities\Scripts\GLTF\Shaders\GLTFStandard.shader" />
+    <None Include="Assets\Assets\HoloToolkit\Utilities\Scripts\GLTF\Shaders\GLTFStandardInput.cginc" />
+    <None Include="Assets\Assets\HoloToolkit\Utilities\Scripts\GLTF\Shaders\GLTFVertexLitCommon.cginc" />
+    <None Include="Assets\Assets\VRTK\Source\Scripts\Internal\Shaders\AdaptiveQualityDebugVisualization.shader" />
+    <None Include="Assets\Assets\VRTK\Source\Scripts\Internal\Shaders\TransparentFresnelBehind.shader" />
+    <None Include="Assets\Assets\VRTK\Source\Scripts\Internal\Shaders\UIOverlay.shader" />
+    <None Include="Assets\Assets\VRTK\Source\Scripts\Internal\Shaders\Unlit_TransparentColor.shader" />
+    <None Include="Assets\Assets\VRTK\Source\Scripts\Internal\Shaders\VRTK_OutlineBasic.shader" />
+    <None Include="Assets\Assets\VRTK\Source\Scripts\Internal\Shaders\VRTK_TunnelEffect.shader" />
     <None Include="Assets\Assets\ZRNAssets\005135_16321_1_1\Documents\ReadMe.txt" />
     <None Include="Assets\Assets\ZRNAssets\005135_16321_1_1\Shaders\su_Zmap_DoubleSide.shader" />
     <None Include="Assets\Assets\ZRNAssets\005135_16321_1_1\Shaders\su_Zmap_river.shader" />
@@ -392,67 +484,6 @@
     <None Include="Assets\Editor\Vuforia\TargetsetData\VuforiaMars_Object_info.xml" />
     <None Include="Assets\Editor\Vuforia\VuforiaMars_ModelTarget\authoringinfo.xml" />
     <None Include="Assets\Editor\Vuforia\VuforiaMars_VuMark\authoringinfo.xml" />
-    <None Include="Assets\HoloToolkit-Examples\Medical\Shaders\PlaneCut.cginc" />
-    <None Include="Assets\HoloToolkit-Examples\Medical\Shaders\VolumeRenderShared.cginc" />
-    <None Include="Assets\HoloToolkit-Examples\Medical\Shaders\VolumeRenderSlice.shader" />
-    <None Include="Assets\HoloToolkit-Examples\Medical\Shaders\VolumeRenderThickSlice.shader" />
-    <None Include="Assets\HoloToolkit-Examples\Medical\Shaders\math.cginc" />
-    <None Include="Assets\HoloToolkit-Examples\Prototyping\Shaders\UnlitTransparentTriplanar.shader" />
-    <None Include="Assets\HoloToolkit-Examples\Prototyping\Shaders\UnlitTriplanar.shader" />
-    <None Include="Assets\HoloToolkit-Examples\UX\Materials\AcrylicReflective.shader" />
-    <None Include="Assets\HoloToolkit-Examples\UX\Materials\AcrylicReflectiveTransparent.shader" />
-    <None Include="Assets\HoloToolkit\Common\Shaders\Obsolete\BlinnPhongConfigurable.cginc" />
-    <None Include="Assets\HoloToolkit\Common\Shaders\Obsolete\BlinnPhongConfigurable.shader" />
-    <None Include="Assets\HoloToolkit\Common\Shaders\Obsolete\BlinnPhongConfigurableTransparent.shader" />
-    <None Include="Assets\HoloToolkit\Common\Shaders\Obsolete\FastConfigurable\FastConfigurable.cginc" />
-    <None Include="Assets\HoloToolkit\Common\Shaders\Obsolete\FastConfigurable\FastConfigurable.shader" />
-    <None Include="Assets\HoloToolkit\Common\Shaders\Obsolete\FastConfigurable\FastConfigurable2Sided.shader" />
-    <None Include="Assets\HoloToolkit\Common\Shaders\Obsolete\FastConfigurable\HoloToolkitCommon.cginc" />
-    <None Include="Assets\HoloToolkit\Common\Shaders\Obsolete\FastConfigurable\macro.cginc" />
-    <None Include="Assets\HoloToolkit\Common\Shaders\Obsolete\HoloToolkitCommon.cginc" />
-    <None Include="Assets\HoloToolkit\Common\Shaders\Obsolete\LambertianConfigurable.cginc" />
-    <None Include="Assets\HoloToolkit\Common\Shaders\Obsolete\LambertianConfigurable.shader" />
-    <None Include="Assets\HoloToolkit\Common\Shaders\Obsolete\LambertianConfigurableTransparent.shader" />
-    <None Include="Assets\HoloToolkit\Common\Shaders\Obsolete\StandardFast.shader" />
-    <None Include="Assets\HoloToolkit\Common\Shaders\Obsolete\UnlitConfigurable.cginc" />
-    <None Include="Assets\HoloToolkit\Common\Shaders\Obsolete\UnlitConfigurable.shader" />
-    <None Include="Assets\HoloToolkit\Common\Shaders\Obsolete\UnlitConfigurableTransparent.shader" />
-    <None Include="Assets\HoloToolkit\Common\Shaders\Obsolete\UnlitNoDepthTest.shader" />
-    <None Include="Assets\HoloToolkit\Common\Shaders\Obsolete\VertexLitConfigurable.cginc" />
-    <None Include="Assets\HoloToolkit\Common\Shaders\Obsolete\VertexLitConfigurable.shader" />
-    <None Include="Assets\HoloToolkit\Common\Shaders\Obsolete\VertexLitConfigurableTransparent.shader" />
-    <None Include="Assets\HoloToolkit\Common\Shaders\Obsolete\macro.cginc" />
-    <None Include="Assets\HoloToolkit\Common\Shaders\Standard.shader" />
-    <None Include="Assets\HoloToolkit\Common\Shaders\WindowOcclusion.shader" />
-    <None Include="Assets\HoloToolkit\Input\Shaders\Cursor.shader" />
-    <None Include="Assets\HoloToolkit\Input\Shaders\CursorShader.shader" />
-    <None Include="Assets\HoloToolkit\Input\Shaders\EditorHands.shader" />
-    <None Include="Assets\HoloToolkit\License.txt" />
-    <None Include="Assets\HoloToolkit\MRTKVersion.txt" />
-    <None Include="Assets\HoloToolkit\SpatialMapping\Shaders\Occlusion.shader" />
-    <None Include="Assets\HoloToolkit\SpatialMapping\Shaders\SpatialMappingTap.shader" />
-    <None Include="Assets\HoloToolkit\SpatialMapping\Shaders\Wireframe.shader" />
-    <None Include="Assets\HoloToolkit\SpatialUnderstanding\Materials\SpatialMappingSurface.shader" />
-    <None Include="Assets\HoloToolkit\SpatialUnderstanding\Materials\SpatialUnderstandingSurface.shader" />
-    <None Include="Assets\HoloToolkit\UX\Fonts\LICENSE.txt" />
-    <None Include="Assets\HoloToolkit\UX\Shaders\3DTextShader.shader" />
-    <None Include="Assets\HoloToolkit\UX\Shaders\Alpha-Diffuse.shader" />
-    <None Include="Assets\HoloToolkit\UX\Shaders\DebugNormals.shader" />
-    <None Include="Assets\HoloToolkit\UX\Shaders\HUXButtonHighlightShader.shader" />
-    <None Include="Assets\HoloToolkit\UX\Shaders\HUXButtonShader.shader" />
-    <None Include="Assets\HoloToolkit\UX\Shaders\InvisibleShader.shader" />
-    <None Include="Assets\HoloToolkit\UX\Shaders\LuminousUnity.shader" />
-    <None Include="Assets\HoloToolkit\UX\Shaders\MovieMask.shader" />
-    <None Include="Assets\HoloToolkit\UX\Shaders\Normal-Diffuse.shader" />
-    <None Include="Assets\HoloToolkit\UX\Shaders\Occlusion.shader" />
-    <None Include="Assets\HoloToolkit\UX\Shaders\StereoImage.shader" />
-    <None Include="Assets\HoloToolkit\UX\Shaders\unlit_vert_color.shader" />
-    <None Include="Assets\HoloToolkit\Utilities\Scripts\GLTF\Shaders\GLTFConstant.cginc" />
-    <None Include="Assets\HoloToolkit\Utilities\Scripts\GLTF\Shaders\GLTFConstant.shader" />
-    <None Include="Assets\HoloToolkit\Utilities\Scripts\GLTF\Shaders\GLTFMobileCommon.cginc" />
-    <None Include="Assets\HoloToolkit\Utilities\Scripts\GLTF\Shaders\GLTFStandard.shader" />
-    <None Include="Assets\HoloToolkit\Utilities\Scripts\GLTF\Shaders\GLTFStandardInput.cginc" />
-    <None Include="Assets\HoloToolkit\Utilities\Scripts\GLTF\Shaders\GLTFVertexLitCommon.cginc" />
     <None Include="Assets\Standard Assets\Cameras\CameraGuidelines.txt" />
     <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
     <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_Images.xml" />
