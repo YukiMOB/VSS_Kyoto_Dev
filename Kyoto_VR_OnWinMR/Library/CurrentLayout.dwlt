@@ -13,14 +13,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 0
-    y: 43
+    x: 8
+    y: 51
     width: 1280
     height: 717
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 371}
+  m_MinSize: {x: 950, y: 392}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -43,7 +43,7 @@ MonoBehaviour:
     y: 0
     width: 1280
     height: 717
-  m_MinSize: {x: 950, y: 371}
+  m_MinSize: {x: 950, y: 392}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -88,10 +88,10 @@ MonoBehaviour:
     y: 30
     width: 1280
     height: 667
-  m_MinSize: {x: 1113, y: 321}
-  m_MaxSize: {x: 22006, y: 10021}
+  m_MinSize: {x: 1113, y: 342}
+  m_MaxSize: {x: 22008, y: 10021}
   vertical: 0
-  controlID: 61
+  controlID: 62
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -132,10 +132,10 @@ MonoBehaviour:
     y: 0
     width: 461
     height: 667
-  m_MinSize: {x: 402, y: 321}
-  m_MaxSize: {x: 4000, y: 6069}
+  m_MinSize: {x: 402, y: 342}
+  m_MaxSize: {x: 4002, y: 6090}
   vertical: 1
-  controlID: 16
+  controlID: 119
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -230,15 +230,14 @@ MonoBehaviour:
     y: 0
     width: 461
     height: 347
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 20}
   m_Panes:
   - {fileID: 20}
   - {fileID: 14}
-  - {fileID: 12}
   m_Selected: 0
-  m_LastSelected: 2
+  m_LastSelected: 1
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -345,8 +344,8 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 92
+    x: 8
+    y: 100
     width: 459
     height: 326
   m_PersistentViewDataDictionary: {fileID: 0}
@@ -372,8 +371,8 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 439
+    x: 8
+    y: 447
     width: 459
     height: 299
   m_PersistentViewDataDictionary: {fileID: 0}
@@ -399,8 +398,8 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 463
-    y: 92
+    x: 471
+    y: 100
     width: 230
     height: 646
   m_PersistentViewDataDictionary: {fileID: 0}
@@ -408,7 +407,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 98fbffff00000000
+    m_ExpandedIDs: 1e95feff56b3feff5ab5feff94bcfeff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -453,8 +452,8 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 965
-    y: 92
+    x: 973
+    y: 100
     width: 315
     height: 646
   m_PersistentViewDataDictionary: {fileID: 0}
@@ -487,8 +486,8 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 697
-    y: 92
+    x: 705
+    y: 100
     width: 264
     height: 646
   m_PersistentViewDataDictionary: {fileID: 0}
@@ -504,18 +503,18 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/HoloToolkit-Examples/MotionControllers-GrabMechanics/Prefabs
+    - Assets/Scene
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\YUUKI\Documents\GitHub\VSS_Kyoto_Dev\Kyoto_VR_OnWinMR
+  m_LastProjectPath: C:\Users\KSU-VR-01\Documents\GitHub\VSS_Kyoto_Dev\Kyoto_VR_OnWinMR
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 6e2a0000
     m_LastClickedID: 10862
-    m_ExpandedIDs: 923b0000ac3b0000c63b0000123d0000aa3d000056410000584100004e47000010480000a0490000184a0000644a00004c4b0000524b0000944d0000ee4d0000704e00004a4f0000da4f0000dc4f0000465100008e520000de520000485300003854000090540000
+    m_ExpandedIDs: ee9a0000fe9a00000a9b0000969b0000b49b00001e9d0000209d0000909f0000d49f00007aa00000b2a00000d4a0000038a100003ca10000f8a1000028a2000058a20000b8a2000024a3000026a30000b0a300000aa4000026a400005ea40000b6a40000caa40000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -540,24 +539,24 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_AssetTreeState:
-    scrollPos: {x: 0, y: 0}
+    scrollPos: {x: 0, y: 1904}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 923b0000ac3b0000c63b0000123d0000aa3d000056410000584100004e47000010480000a0490000184a0000644a00004c4b0000524b0000944d0000ee4d0000704e00004a4f0000da4f0000dc4f0000465100008e520000de520000485300003854000090540000
+    m_ExpandedIDs: ee9a0000fe9a00000a9b0000969b0000b49b00001e9d0000209d0000e29d0000149f0000169f0000909f0000d49f00007aa00000b2a00000d4a0000038a100003ca10000f8a1000028a200003ea2000058a20000b8a2000024a30000b0a300000aa4000026a400005ea40000b6a40000caa40000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Vuforia
+      m_OriginalName: Vuforia
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 41534
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 8}
     m_SearchString: 
@@ -620,8 +619,8 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 439
+    x: 8
+    y: 447
     width: 459
     height: 299
   m_PersistentViewDataDictionary: {fileID: 0}
@@ -697,8 +696,8 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 92
+    x: 8
+    y: 100
     width: 459
     height: 326
   m_PersistentViewDataDictionary: {fileID: 0}
@@ -708,9 +707,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.041245393, y: 91.24703, z: 0.05088006}
+    m_Target: {x: -0.38523254, y: 91.24703, z: -0.29851112}
     speed: 2
-    m_Value: {x: -0.041245393, y: 91.24703, z: 0.05088006}
+    m_Value: {x: -0.38523254, y: 91.24703, z: -0.29851112}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -734,9 +733,9 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.23160309, y: 0.37390628, z: -0.09699407, w: -0.8928322}
+    m_Target: {x: -0.23160273, y: 0.37390572, z: -0.09699392, w: -0.89283085}
     speed: 2
-    m_Value: {x: -0.23160309, y: 0.37390628, z: -0.09699407, w: -0.8928322}
+    m_Value: {x: -0.23160273, y: 0.37390572, z: -0.09699392, w: -0.89283085}
   m_Size:
     m_Target: 2854.7512
     speed: 2
