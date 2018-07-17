@@ -939,6 +939,7 @@
     <Compile Include="Assets\Assets\HoloToolkit-Examples\UX\Scripts\Widgets\TextureThemeWidget.cs" />
     <Compile Include="Assets\Scripts\CameraControl.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\VoiceGuideStart.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Assets\HoloToolkit-Examples\Medical\Shaders\PlaneCut.cginc" />
